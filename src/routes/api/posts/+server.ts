@@ -10,5 +10,5 @@ export const GET: RequestHandler = async () => {
           `,
 		},
 	];
-	return json(posts);
+	return json(posts); // the response body will be serialized to JSON
 };
