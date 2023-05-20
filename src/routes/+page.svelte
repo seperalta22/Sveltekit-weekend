@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<h1>
+	<!-- <h1>
 		<span class="welcome">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
@@ -19,7 +19,9 @@
 		</span>
 
 		to your new<br />SvelteKit app
-	</h1>
+	</h1> -->
+
+	
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
