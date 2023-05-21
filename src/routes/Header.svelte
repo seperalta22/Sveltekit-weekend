@@ -97,7 +97,7 @@
     height: 100%;
     align-items: center;
     padding: 0 0.5rem;
-    color: var(--color-text);
+    color: #000;
     font-weight: 700;
     font-size: 0.8rem;
     text-transform: uppercase;
@@ -107,6 +107,6 @@
   }
 
   a:hover {
-    color: var(--color-theme-1);
+    color: var(--color-theme);
   }
 </style>
