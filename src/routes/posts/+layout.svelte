@@ -28,6 +28,6 @@
   .posts{
     display: grid;
     gap: 2rem;
-    grid-template-columns: 200px 20ch;
+    grid-template-columns: 200px 1fr;
   }
 </style>
