@@ -1,5 +1,5 @@
-import type { PageLoad } from './$types';
+// import type { PageLoad } from './$types';
 
-export const load: PageLoad = async () => {
-	throw new Error('Not implemented');
-};
+// export const load: PageLoad = async () => {
+// 	throw new Error('Not implemented');
+// };
